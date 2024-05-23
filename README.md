@@ -5,6 +5,17 @@ Modular and Inclusive Software Advancement (MISA) License framework is a license
 
 The MISA License framework is designed to provide a flexible and modular approach to open source licensing. By combining various license modules, users can create custom licenses that suit their specific needs and preferences.
 
+## Other Languages
+- [日本語](/Other%20Languages/README_ja.md)
+- [العربية](/Other%20Languages/README_ar.md)
+- [Deutsch](/Other%20Languages/README_de.md) 
+- [Español](/Other%20Languages/README_es.md)
+- [Français](/Other%20Languages/README_fr.md)
+- [हिन्दी](/Other%20Languages/README_hi.md)
+- [Italiano](/Other%20Languages/README_it.md)
+- [한국어](/Other%20Languages/README_ko.md)
+- [中文](/Other%20Languages/README_zh.md)
+
 ## About MISA-CLASSIC.md
 It's important to note that MISA-CLASSIC is equivalent to MISA-NCO, which is a license composed of the Naming Continuity Obligation (NCO) module. This means that any project licensed under MISA-CLASSIC can also be referred to as being licensed under MISA-NCO.
 
