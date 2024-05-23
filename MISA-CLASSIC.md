@@ -1,4 +1,4 @@
-# Modular and Inclusive Software Advancement License Classic (MISA-CLASSIC) v 1.4
+# Modular and Inclusive Software Advancement License Classic (MISA-CLASSIC) v 1.5
 
 ## 1. Disclaimer of Liability
 
@@ -32,11 +32,11 @@ Except for any copyrights associated with the additional clauses or modification
 
 ### 4.1 License Name Continuity
 
-The name of any derivative license must be based on the "MISA" name and maintain an equivalent naming continuity obligation as the MISA license for its own derivatives.
+The name of any derivative license must be based on the "MISA" name and maintain an equivalent naming continuity obligation as the MISA-CLASSIC license for its own derivatives.
 
 ### 4.2 Existing Clauses Immutability
 
-The existing clauses of the MISA license (Sections 1-4) cannot be modified. Any modifications or additions must be placed in separate sections (Section 5 onwards).
+The existing clauses of the MISA-CLASSIC license (Sections 1-4) cannot be modified. Any modifications or additions must be placed in separate sections (Section 5 onwards).
 
 ### 4.3 Modification Propagation
 
@@ -44,7 +44,7 @@ The modification and addition clauses (Section 5 onwards) can be further modifie
 
 ### 4.4 Addable Components
 
-Derivative licenses may add any components that do not conflict with the existing clauses of the MISA license. Some examples include, but are not limited to:
+Derivative licenses may add any components that do not conflict with the existing clauses of the MISA-CLASSIC license. Some examples include, but are not limited to:
 
 - Patent License: Grants users the rights to use any patents held by the contributor that are necessarily infringed by the usage of the software. Similar to the Apache License.
 
@@ -54,6 +54,6 @@ Derivative licenses may add any components that do not conflict with the existin
 
 - Attribution/Credit: Requires acknowledgement of the original creators. Present in the BSD, Apache, and CC BY licenses.
 
-The addition of these components can bring the MISA license closer in spirit to other well-known licenses.
+The addition of these components can bring the MISA-CLASSIC license closer in spirit to other well-known licenses.
 
 By using this product, you agree to be bound by the terms and conditions of this license agreement.
