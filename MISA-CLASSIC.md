@@ -1,4 +1,4 @@
-# Modular and Inclusive Software Advancement License Classic (MISA-CLASSIC) v 1.3
+# Modular and Inclusive Software Advancement License Classic (MISA-CLASSIC) v 1.4
 
 ## 1. Disclaimer of Liability
 
@@ -53,8 +53,6 @@ Derivative licenses may add any components that do not conflict with the existin
 - Source Code Disclosure: Mandates the distribution of source code along with the software. Found in the GPL.
 
 - Attribution/Credit: Requires acknowledgement of the original creators. Present in the BSD, Apache, and CC BY licenses.
-
-- Same License for Derivatives: Demands the same license to be applied to derivative works. Central to the GPL.
 
 The addition of these components can bring the MISA license closer in spirit to other well-known licenses.
 
