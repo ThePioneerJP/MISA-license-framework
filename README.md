@@ -5,7 +5,7 @@ Modular and Inclusive Software Advancement (MISA) License framework is a license
 
 The MISA License framework is designed to provide a flexible and modular approach to open source licensing. By combining various license modules, users can create custom licenses that suit their specific needs and preferences.
 
-## About MISA=CLASSIC.md
+## About MISA-CLASSIC.md
 It's important to note that MISA-CLASSIC is equivalent to MISA-NCO, which is a license composed of the Naming Continuity Obligation (NCO) module. This means that any project licensed under MISA-CLASSIC can also be referred to as being licensed under MISA-NCO.
 
 The MISA-CLASSIC license laid the groundwork for the development of the MISA License framework, which expands upon the concept of modular licensing by introducing a wide range of customizable modules that can be combined to create licenses tailored to specific needs and preferences.
@@ -26,8 +26,8 @@ The structure of the MISA License framework can be visualized using the followin
 classDiagram
     class MODULE_TEMPLATE {
         +basicContent: String
-        +mandatoryInheritanceUsage: Boolean
-        +optionalInheritanceUsage: Boolean
+        +mandatory_inheritance_usage: Boolean
+        +optional_inheritance_usage: Boolean
     }
     
     MODULE_TEMPLATE <|-- BY
@@ -39,8 +39,8 @@ classDiagram
     MODULE_TEMPLATE <|-- SCD
     
     class MISA_TEMPLATE {
-        +mandatoryInheritance: List~MODULE_TEMPLATE~
-        +optionalInheritance: List~MODULE_TEMPLATE~
+        +mandatory_inheritance: List~MODULE_TEMPLATE~
+        +optional_inheritance: List~MODULE_TEMPLATE~
     }
     
     MISA_TEMPLATE o--  "1..*" MODULE_TEMPLATE
@@ -102,3 +102,13 @@ ModuleName (Abbreviation)
 Where:
 - ModuleName is the full name of the module.
 - Abbreviation is a short form of the module name, enclosed in parentheses.
+
+## Note on Legal Terminology
+
+Please note that the content of this repository, including the MISA License framework, the default modules, and the templates, was primarily generated using Large Language Models (LLMs). While we have made every effort to ensure the accuracy and clarity of the information presented here, there may be instances where the legal terminology used is not precisely correct or comprehensive.
+
+We highly encourage and welcome pull requests from legal experts and knowledgeable individuals to help us refine and improve the legal language used throughout this repository. Your contributions will be invaluable in ensuring that the MISA License framework is legally sound and can be effectively used in real-world scenarios.
+
+If you notice any legal inaccuracies, unclear wording, or have suggestions for improvement, please don't hesitate to submit a pull request with your proposed changes. Together, we can work towards making the MISA License framework a robust and reliable tool for the open-source community.
+
+Thank you for your understanding and support in this collaborative effort to create a legally precise and comprehensive modular licensing framework.
