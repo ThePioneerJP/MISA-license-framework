@@ -36,6 +36,7 @@ classDiagram
     MODULE_TEMPLATE <|-- PL
     MODULE_TEMPLATE <|-- RM
     MODULE_TEMPLATE <|-- SA
+    MODULE_TEMPLATE <|-- SOFTSA
     MODULE_TEMPLATE <|-- SCD
     
     class MISA_TEMPLATE {
@@ -55,6 +56,7 @@ Il framework di licenza MISA viene fornito con i seguenti moduli predefiniti:
 - [PL.md](/Default%20modules/PL.md): Licenza di Brevetto
 - [RM.md](/Default%20modules/RM.md): Reciprocità/Licenza Reciproca
 - [SA.md](/Default%20modules/SA.md): Copyleft/Condivisione allo stesso modo
+- [SOFTSA.md](/Default%20modules/SOFTSA.md): Copyleft/Condividi allo stesso modo soft (si applica solo ai fork)
 - [SCD.md](/Default%20modules/SCD.md): Divulgazione del Codice Sorgente
 
 ## Utilizzo dei Modelli

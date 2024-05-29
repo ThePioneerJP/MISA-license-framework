@@ -36,6 +36,7 @@ classDiagram
     MODULE_TEMPLATE <|-- PL
     MODULE_TEMPLATE <|-- RM
     MODULE_TEMPLATE <|-- SA
+    MODULE_TEMPLATE <|-- SOFTSA
     MODULE_TEMPLATE <|-- SCD
     
     class MISA_TEMPLATE {
@@ -55,6 +56,7 @@ MISAライセンスフレームワークには、次のデフォルトモジュ�
 - [PL.md](/Default%20modules/PL.md)：特許ライセンス
 - [RM.md](/Default%20modules/RM.md)：相互主義/相互ライセンス
 - [SA.md](/Default%20modules/SA.md)：コピーレフト/シェアアライク 
+- [SOFTSA.md](/Default%20modules/SOFTSA.md): ソフトコピーレフト/シェアアライク (フォークのみを対象)
 - [SCD.md](/Default%20modules/SCD.md)：ソースコード開示
 
 ## テンプレートの使用

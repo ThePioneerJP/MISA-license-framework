@@ -36,6 +36,7 @@ classDiagram
     MODULE_TEMPLATE <|-- PL
     MODULE_TEMPLATE <|-- RM
     MODULE_TEMPLATE <|-- SA
+    MODULE_TEMPLATE <|-- SOFTSA
     MODULE_TEMPLATE <|-- SCD
     
     class MISA_TEMPLATE {
@@ -55,6 +56,7 @@ Das MISA-Lizenzframework wird mit den folgenden Standardmodulen geliefert:
 - [PL.md](/Default%20modules/PL.md): Patentlizenz
 - [RM.md](/Default%20modules/RM.md): Gegenseitigkeit/Gegenseitige Lizenzierung
 - [SA.md](/Default%20modules/SA.md): Copyleft/Share-Alike
+- [SOFTSA.md](/Default%20modules/SOFTSA.md): Soft Copyleft/Share-Alike (betrifft nur Forks)
 - [SCD.md](/Default%20modules/SCD.md): Quellcode-Offenlegung
 
 ## Verwendung der Vorlagen

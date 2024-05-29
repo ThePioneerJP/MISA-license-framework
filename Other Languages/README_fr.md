@@ -36,6 +36,7 @@ classDiagram
     MODULE_TEMPLATE <|-- PL
     MODULE_TEMPLATE <|-- RM
     MODULE_TEMPLATE <|-- SA
+    MODULE_TEMPLATE <|-- SOFTSA
     MODULE_TEMPLATE <|-- SCD
     
     class MISA_TEMPLATE {
@@ -55,6 +56,7 @@ Le cadre de licence MISA est livré avec les modules par défaut suivants :
 - [PL.md](/Default%20modules/PL.md) : Licence de brevet
 - [RM.md](/Default%20modules/RM.md) : Réciprocité/Licence mutuelle
 - [SA.md](/Default%20modules/SA.md) : Copyleft/Partage à l'identique
+- [SOFTSA.md](/Default%20modules/SOFTSA.md): Copyleft/Partage à l'identique souple (cible uniquement les forks)
 - [SCD.md](/Default%20modules/SCD.md) : Divulgation du code source
 
 ## Utilisation des modèles

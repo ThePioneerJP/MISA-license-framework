@@ -36,6 +36,7 @@ classDiagram
     MODULE_TEMPLATE <|-- PL
     MODULE_TEMPLATE <|-- RM
     MODULE_TEMPLATE <|-- SA
+    MODULE_TEMPLATE <|-- SOFTSA
     MODULE_TEMPLATE <|-- SCD
     
     class MISA_TEMPLATE {
@@ -55,6 +56,7 @@ classDiagram
 - [PL.md](/Default%20modules/PL.md): ترخيص براءات الاختراع
 - [RM.md](/Default%20modules/RM.md): المعاملة بالمثل/الترخيص المتبادل
 - [SA.md](/Default%20modules/SA.md): حقوق النسخ/المشاركة بالمثل
+- [SOFTSA.md](/Default%20modules/SOFTSA.md): حقوق النشر / الترخيص بالمثل الناعمة (تستهدف التفرعات فقط)
 - [SCD.md](/Default%20modules/SCD.md): الكشف عن الشفرة المصدرية
 
 ## استخدام القوالب

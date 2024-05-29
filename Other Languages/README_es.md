@@ -36,6 +36,7 @@ classDiagram
     MODULE_TEMPLATE <|-- PL
     MODULE_TEMPLATE <|-- RM
     MODULE_TEMPLATE <|-- SA
+    MODULE_TEMPLATE <|-- SOFTSA
     MODULE_TEMPLATE <|-- SCD
     
     class MISA_TEMPLATE {
@@ -55,6 +56,7 @@ El marco de licencia MISA viene con los siguientes módulos predeterminados:
 - [PL.md](/Default%20modules/PL.md): Licencia de Patente
 - [RM.md](/Default%20modules/RM.md): Reciprocidad/Licencia Mutua
 - [SA.md](/Default%20modules/SA.md): Copyleft/Compartir Igual
+- [SOFTSA.md](/Default%20modules/SOFTSA.md): Copyleft/Compartir-Igual suave (solo se aplica a bifurcaciones)
 - [SCD.md](/Default%20modules/SCD.md): Divulgación de Código Fuente 
 
 ## Usando las Plantillas

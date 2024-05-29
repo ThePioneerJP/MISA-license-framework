@@ -36,6 +36,7 @@ classDiagram
     MODULE_TEMPLATE <|-- PL
     MODULE_TEMPLATE <|-- RM
     MODULE_TEMPLATE <|-- SA
+    MODULE_TEMPLATE <|-- SOFTSA
     MODULE_TEMPLATE <|-- SCD
     
     class MISA_TEMPLATE {
@@ -55,6 +56,7 @@ MISA许可证框架附带以下默认模块：
 - [PL.md](/Default%20modules/PL.md)：专利许可
 - [RM.md](/Default%20modules/RM.md)：互惠/相互许可
 - [SA.md](/Default%20modules/SA.md)：Copyleft/相同方式共享
+- [SOFTSA.md](/Default%20modules/SOFTSA.md): 软件著佐权/相同方式共享 (仅针对复刻版本)
 - [SCD.md](/Default%20modules/SCD.md)：源代码披露
 
 ## 使用模板

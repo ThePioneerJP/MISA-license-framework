@@ -36,6 +36,7 @@ classDiagram
     MODULE_TEMPLATE <|-- PL
     MODULE_TEMPLATE <|-- RM
     MODULE_TEMPLATE <|-- SA
+    MODULE_TEMPLATE <|-- SOFTSA
     MODULE_TEMPLATE <|-- SCD
     
     class MISA_TEMPLATE {
@@ -55,6 +56,7 @@ MISA 라이선스 프레임워크에는 다음과 같은 기본 모듈이 포함
 - [PL.md](/Default%20modules/PL.md): 특허 라이선스
 - [RM.md](/Default%20modules/RM.md): 호혜성/상호 라이선싱
 - [SA.md](/Default%20modules/SA.md): 카피레프트/동일조건하의 공유
+- [SOFTSA.md](/Default%20modules/SOFTSA.md): 소프트 카피레프트/동일조건변경허락 (포크에만 적용)
 - [SCD.md](/Default%20modules/SCD.md): 소스 코드 공개
 
 ## 템플릿 사용
